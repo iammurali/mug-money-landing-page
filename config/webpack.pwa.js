@@ -7,9 +7,9 @@ const WebpackPwaManifest = require('webpack-pwa-manifest');
 module.exports = Merge(ProdConfig, {
   plugins: [
     new WebpackPwaManifest({
-      name: 'Mobile App Name',
-      short_name: 'Mobile App Name',
-      description: 'A super tagline for the mobile app',
+      name: 'Mug money',
+      short_name: 'Mug money',
+      description: 'Buy a mug! start earning!',
       orientation: 'portrait',
       display: 'standalone',
       start_url: '/',
