@@ -1,9 +1,0 @@
-app:
-  screenshots: Screenshots
-  description: Description
-
-footer:
-  copyright: Made with ❤️
-  links:
-    - title: Privacy
-      url: /privacy
