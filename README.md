@@ -13,12 +13,16 @@ Here is the screenshot you are looking for:
 
 Screenshot 1
 <p align="center">
-  <img src="/img/image1.png" width="350" title="hover text">
+  <img src="/img/image1.png" width="450" title="hover text">
 </p>
 Screenshot 2
-![Alt text](./img/image2.jpg)
+<p align="center">
+  <img src="/img/image2.png" width="450" title="hover text">
+</p>
 Screenshot 3
-![Alt text](./img/image3.jpg)
+<p align="center">
+  <img src="/img/image3.png" width="450" title="hover text">
+</p>
 
 
 
