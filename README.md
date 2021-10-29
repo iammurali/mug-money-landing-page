@@ -12,7 +12,9 @@ checkout: ![Website](https://mugmoney.in)
 Here is the screenshot you are looking for:
 
 Screenshot 1
-![Alt text](./img/image1.jpg)
+<p align="center">
+  <img src="/img/image1.png" width="350" title="hover text">
+</p>
 Screenshot 2
 ![Alt text](./img/image2.jpg)
 Screenshot 3
