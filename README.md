@@ -11,7 +11,7 @@ checkout: ![Website](https://mugmoney.in)
 
 Here is the screenshot you are looking for:
 
-Screenshot 1
+Screenshots
 <p align="center">
   <img src="/img/image1.png" width="450" title="hover text">
 </p>
@@ -26,4 +26,4 @@ Screenshot 1
 
 
 I am working on creating a website that will help you generate a landing page.
-Looking forward for contribution from the cummunitu
+Looking forward for contribution from the cummunity
