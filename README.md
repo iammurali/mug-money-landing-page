@@ -15,11 +15,9 @@ Screenshot 1
 <p align="center">
   <img src="/img/image1.png" width="450" title="hover text">
 </p>
-Screenshot 2
 <p align="center">
   <img src="/img/image2.png" width="450" title="hover text">
 </p>
-Screenshot 3
 <p align="center">
   <img src="/img/image3.png" width="450" title="hover text">
 </p>
