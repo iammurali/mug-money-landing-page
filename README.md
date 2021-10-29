@@ -12,11 +12,11 @@ checkout: ![Website](https://mugmoney.in)
 Here is the screenshot you are looking for:
 
 Screenshot 1
-![Alt text](./img/image1.jpg?raw=true "Title")
+![Alt text](./img/image1.jpg)
 Screenshot 2
-![Alt text](./img/image2.jpg?raw=true "Title")
+![Alt text](./img/image2.jpg)
 Screenshot 3
-![Alt text](./img/image3.jpg?raw=true "Title")
+![Alt text](./img/image3.jpg)
 
 
 
